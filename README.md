@@ -1,0 +1,1 @@
+This was the first trial project pushed to github through commands
